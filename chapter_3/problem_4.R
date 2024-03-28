@@ -1,3 +1,4 @@
+# nolint: line_length_linter
 library(LearnBayes)
 
 # 3.4. [This problem is loosely based on examples from Chap. 4 of Albert (1997)].
